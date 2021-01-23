@@ -9,6 +9,7 @@
 
 <span style="display:block;text-align:center">
 
+[![Made With][made-with-shield]][made-with-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -20,23 +21,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/th3c0d3br34ker/README-Template">
+  <a href="https://github.com/th3c0d3br34ker/template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">README-Template</h3>
+  <h3 align="center">README Template</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/th3c0d3br34ker/README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/th3c0d3br34ker/template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th3c0d3br34ker/README-Template">View Demo</a>
+    <a href="https://github.com/th3c0d3br34ker/template">View Demo</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/README-Template/issues">Report Bug</a>
+    <a href="https://github.com/th3c0d3br34ker/template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/README-Template/issues">Request Feature</a>
+    <a href="https://github.com/th3c0d3br34ker/template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -136,7 +137,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/th3c0d3br34ker/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/th3c0d3br34ker/template/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -167,16 +168,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/th3c0debr34ker/README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/th3c0d3br34ker/README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/th3c0d3br34ker/README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/th3c0d3br34ker/README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/th3c0d3br34ker/README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/th3c0d3br34ker/README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/th3c0d3br34ker/README-Template/issues
-[license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/th3c0d3br34ker/README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jainam-desai/
+[contributors-shield]: https://img.shields.io/github/contributors/th3c0debr34ker/template.svg?style=for-the-badge
+[contributors-url]: https://github.com/th3c0d3br34ker/template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/template.svg?style=for-the-badge
+[forks-url]: https://github.com/th3c0d3br34ker/template/network/members
+[stars-shield]: https://img.shields.io/github/stars/th3c0d3br34ker/template.svg?style=for-the-badge
+[stars-url]: https://github.com/th3c0d3br34ker/template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/th3c0d3br34ker/template.svg?style=for-the-badge
+[issues-url]: https://github.com/th3c0d3br34ker/template/issues
+[license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/template.svg?style=for-the-badge
+[license-url]: https://github.com/th3c0d3br34ker/template/blob/master/LICENSE.txt
+[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/template?style=for-the-badge
+[made-with-url]: https://www.linkedin.com/in/jainam-desai/
 [product-screenshot]: images/screenshot.png
