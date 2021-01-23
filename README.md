@@ -62,7 +62,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -179,5 +178,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/template.svg?style=for-the-badge
 [license-url]: https://github.com/th3c0d3br34ker/template/blob/master/LICENSE.txt
 [made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/template?style=for-the-badge
-[made-with-url]: https://www.linkedin.com/in/jainam-desai/
+[made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/template.svg?style-for-the-badge
 [product-screenshot]: images/screenshot.png

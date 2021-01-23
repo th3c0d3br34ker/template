@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/th3c0d3br34ker/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,14 +41,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/th3c0d3br34ker/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/th3c0d3br34ker/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,10 +83,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
 ### Built With
 
 - []()
@@ -112,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/th3c0d3br34ker/repo_name.git
    ```
 2. Install NPM packages
    ```sh
@@ -131,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/th3c0d3br34ker/repo_name/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -162,15 +158,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[made-with-url]: https://www.linkedin.com/in/jainam-desai/
+[contributors-shield]: https://img.shields.io/github/contributors/th3c0d3br34ker/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/th3c0d3br34ker/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/th3c0d3br34ker/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/th3c0d3br34ker/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/th3c0d3br34ker/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/th3c0d3br34ker/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/th3c0d3br34ker/repo/issues
+[license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/repo.svg?style=for-the-badge
+[license-url]: https://github.com/th3c0d3br34ker/repo/blob/master/LICENSE.txt
+[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/template?style=for-the-badge
+[made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/template.svg?style-for-the-badge
