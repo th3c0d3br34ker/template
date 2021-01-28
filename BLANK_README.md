@@ -168,5 +168,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/th3c0d3br34ker/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/th3c0d3br34ker/repo_name/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/repo_name.svg?style=for-the-badge
+[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/repo_name?style=for-the-badge
 [made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/repo_name.svg?style-for-the-badge
+[product-screenshot]: images/screenshot.png
