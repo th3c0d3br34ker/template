@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/th3c0debr34ker/template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/th3c0d3br34ker/template.svg?style=for-the-badge
 [contributors-url]: https://github.com/th3c0d3br34ker/template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/template.svg?style=for-the-badge
 [forks-url]: https://github.com/th3c0d3br34ker/template/network/members
@@ -177,6 +177,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/th3c0d3br34ker/template/issues
 [license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/template.svg?style=for-the-badge
 [license-url]: https://github.com/th3c0d3br34ker/template/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/template?style=for-the-badge
+[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/template,svg?style=for-the-badge
 [made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/template.svg?style-for-the-badge
 [product-screenshot]: images/screenshot.png
